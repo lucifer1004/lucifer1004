@@ -5,6 +5,7 @@
 I'm Zihua Wu, a Ph.D student majoring in remote sensing :satellite: at Peking University, Beijing, China.
 
 - :hammer_and_pick: Typescript for web applications, C++/Python/Kotlin for competitive programming, Python/R/Julia for data science.
+- :sunny: Maintaining [CP-Wiki](https://github.com/lucifer1004/cp-wiki) and more 
 - :package: Building [Googlemap-React](https://github.com/googlemap-react/googlemap-react) and more
 - :seedling: Haskell, Rust, Elixir
 - :man: Pronouns: he/him
