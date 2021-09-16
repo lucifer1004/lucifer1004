@@ -1,4 +1,4 @@
-# Hey, lucifer1004 here! :wave: [![Codeforces Rating](https://cfrating.ihcr.top/?user=lucifer1004&style=flat-square)](https://codeforces.com/profile/lucifer1004)
+# Hey, lucifer1004 here! :wave: [![Codeforces Rating](https://cp-logo.vercel.app/codeforces/lucifer1004)](https://codeforces.com/profile/lucifer1004) [![AtCoder Rating](https://cp-logo.vercel.app/atcoder/lucifer1004)](https://atcoder.jp/users/lucifer1004) [![LeetCode Rating](https://cp-logo.vercel.app/leetcode/lucifer1004)](https://leetcode-cn.com/u/lucifer1004/)
 
 <img width="50%" align="right" alt="lucifer1004's github stats" src="https://github-readme-stats.vercel.app/api?username=lucifer1004&show_icons=true">
 
