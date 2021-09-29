@@ -20,10 +20,10 @@ I'm Zihua Wu, a Ph.D student majoring in remote sensing :satellite: at Peking Un
 
 <!--START_SECTION:waka-->
 ```text
-Julia          20 hrs 17 mins  ███████████████░░░░░░░░░░   59.38 % 
-Rust           7 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.81 % 
-FortranFixed   1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-TOML           1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Other          49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Julia          24 hrs 33 mins  ███████████████▓░░░░░░░░░   62.74 % 
+Rust           7 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+CSV            1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+FortranFixed   1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TOML           1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 <!--END_SECTION:waka-->
