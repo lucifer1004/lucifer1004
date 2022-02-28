@@ -19,11 +19,13 @@ I'm Zihua Wu, a Ph.D student majoring in remote sensing :satellite: at Peking Un
 ## Wakatime statistics
 
 <!--START_SECTION:waka-->
+
 ```text
-Julia    20 hrs 9 mins   ██████████████▒░░░░░░░░░░   57.26 % 
-Python   4 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-C++      2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Rust     1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Other    1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Julia            18 hrs 25 mins  █████████████▓░░░░░░░░░░░   54.41 %
+Python           4 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Rust             2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+C++              2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Other            1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
+
 <!--END_SECTION:waka-->
