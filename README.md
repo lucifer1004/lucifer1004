@@ -7,6 +7,7 @@ I'm Zihua Wu, a Ph.D student majoring in remote sensing :satellite: at Peking Un
 - :hammer_and_pick: Typescript for web applications, C++/Python/Rust/Kotlin for competitive programming, Python/R/Julia for data science.
 - :sunny: Maintaining [CP-Wiki](https://cp-wiki.vercel.app) and more 
 - :package: Building [MonkeyLang.jl](https://github.com/lucifer1004/MonkeyLang.jl), [Taichi.jl](https://github.com/lucifer1004/Taichi.jl), [Jl2Py.jl](https://github.com/lucifer1004/Jl2Py.jl), [Rust-Wechaty](https://github.com/wechaty/rust-wechaty), [Googlemap-React](https://github.com/googlemap-react/googlemap-react) and more
+- :sparkler: Created Julia backend for [LFortran](https://github.com/lfortran/lfortran)
 - :seedling: Haskell, Rust, Elixir
 - :man: Pronouns: he/him
 
