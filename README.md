@@ -22,8 +22,8 @@ I'm Zihua Wu, a Ph.D student majoring in remote sensing :satellite: at Peking Un
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       26 hrs 1 min    ██████████▓░░░░░░░░░░░░░░   42.73 %
-Other            9 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+TypeScript       18 hrs 14 mins  █████████░░░░░░░░░░░░░░░░   35.58 %
+Other            6 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
 ```
 
 <!--END_SECTION:waka-->
