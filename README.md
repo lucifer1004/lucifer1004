@@ -15,6 +15,8 @@ I'm Zihua Wu, a Ph.D student majoring in remote sensing :satellite: at Peking Un
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer1004&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## Wakatime statistics
