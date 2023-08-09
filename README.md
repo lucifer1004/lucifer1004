@@ -2,7 +2,9 @@
 
 <img width="50%" align="right" alt="lucifer1004's github stats" src="https://github-readme-stats.vercel.app/api?username=lucifer1004&show_icons=true">
 
-I'm Zihua Wu, a Ph.D student majoring in remote sensing :satellite: at Peking University, Beijing, China.
+I'm Zihua Wu. I received my Bachelor's degree in Physics and Ph.D. degree in Cartography & GIS from Peking University.
+
+Currently, I am a software engineer at DevTech, NVIDIA.
 
 - :hammer_and_pick: Typescript for web applications, C++/Python/Rust/Kotlin for competitive programming, Python/R/Julia for data science.
 - :sunny: Maintaining [CP-Wiki](https://cp-wiki.vercel.app) and more 
