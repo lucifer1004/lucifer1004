@@ -26,11 +26,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 2 mins     ██████████▓░░░░░░░░░░░░░░   43.21 %
-Python       56 mins         █████████▓░░░░░░░░░░░░░░░   39.29 %
-Bash         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Docker       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Julia        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+C++      1 hr 2 mins     █████████████▓░░░░░░░░░░░   55.17 %
+Python   47 mins         ██████████▒░░░░░░░░░░░░░░   41.84 %
+Docker   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Ezhil    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
