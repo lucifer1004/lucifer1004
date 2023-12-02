@@ -26,11 +26,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         1 hr 43 mins    █████████████████▓░░░░░░░   70.75 %
-C++          38 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-Python       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python       2 hrs 22 mins   ████████████░░░░░░░░░░░░░   47.69 %
+Rust         1 hr 43 mins    ████████▓░░░░░░░░░░░░░░░░   34.40 %
+C++          38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+SSH Config   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
