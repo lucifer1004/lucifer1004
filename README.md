@@ -26,11 +26,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Cuda          8 hrs 55 mins   ███████████████▒░░░░░░░░░   60.88 %
-TypeScript    2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
-C++           38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-CMake         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Markdown      35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Cuda          9 hrs 3 mins    ███████████████▓░░░░░░░░░   62.77 %
+TypeScript    2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+CMake         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Markdown      35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+TOML          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
