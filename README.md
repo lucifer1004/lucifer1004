@@ -26,11 +26,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Other           3 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   39.40 %
-Lean            2 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   35.65 %
-Scala           1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-Python          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-SystemVerilog   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other           3 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   31.77 %
+Lean            2 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+Scala           1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+CMake           1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+Python          1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
 ```
 
 <!--END_SECTION:waka-->
