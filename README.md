@@ -26,11 +26,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Typst        1 hr 3 mins     ████████████▓░░░░░░░░░░░░   50.39 %
-JavaScript   23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
-JSON         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Markdown     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-TypeScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Typst        1 hr 26 mins    ██████████████▒░░░░░░░░░░   57.96 %
+JavaScript   23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+JSON         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Markdown     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+TypeScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
