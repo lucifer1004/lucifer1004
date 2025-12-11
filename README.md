@@ -26,11 +26,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         45 hrs 4 mins   ███████████████▒░░░░░░░░░   61.24 %
-Svelte       9 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-Markdown     5 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-TypeScript   3 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Julia        2 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Rust         56 hrs 49 mins  ████████████████▒░░░░░░░░   65.28 %
+Svelte       9 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Markdown     6 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+TypeScript   3 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+TOML         2 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
