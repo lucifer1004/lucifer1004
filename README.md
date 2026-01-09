@@ -26,11 +26,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Typst           30 hrs 38 mins  ███████████▒░░░░░░░░░░░░░   45.89 %
-Markdown        12 hrs 16 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-Rust            10 hrs 32 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-TypeScript      2 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-YAML            2 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Typst           20 hrs 21 mins  ████████▓░░░░░░░░░░░░░░░░   35.11 %
+Markdown        13 hrs 25 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+Rust            11 hrs 56 mins  █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+TypeScript      3 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+YAML            1 hr 51 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 ```
 
 <!--END_SECTION:waka-->
