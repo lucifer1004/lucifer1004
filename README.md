@@ -15,9 +15,7 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer1004&layout=compact)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=lucifer1004&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
