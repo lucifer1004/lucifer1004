@@ -24,16 +24,12 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 </tr>
 </table>
 
-## Top languages
-
 <p align="center">
-  <img src="./language.svg" alt="Top Languages" />
+  <img width="100%" src="./language.svg" alt="Top Languages" />
 </p>
 
-## Commit time distribution
-
 <p align="center">
-  <img src="./timedist.svg" alt="Commit Time Distribution" />
+  <img width="100%" src="./timedist.svg" alt="Commit Time Distribution" />
 </p>
 
 ## Wakatime statistics

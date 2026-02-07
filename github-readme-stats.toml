@@ -10,9 +10,8 @@ pinned = [
     "pku-typst/pkuthss-typst",
     "pku-typst/citeproc-typst",
 ]
-orgs = ["govctl-org"]
 
 [language]
 commits_limit = 1000
 top_n = 10
-exclude = ["HTML", "CSS"]
+exclude = ["HTML", "CSS", "SVG"]
