@@ -1,0 +1,18 @@
+[time]
+timezone = "+08:00"
+
+[repos]
+pinned = [
+    "NVIDIA/TensorRT-LLM",
+    "tile-ai/tilelang",
+    "govctl-org/govctl",
+    "govctl-org/skillc",
+    "pku-typst/pkuthss-typst",
+    "pku-typst/citeproc-typst",
+]
+orgs = ["govctl-org"]
+
+[language]
+commits_limit = 1000
+top_n = 10
+exclude = ["HTML", "CSS"]

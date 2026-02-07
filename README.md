@@ -1,23 +1,40 @@
 # Hey, lucifer1004 here! :wave:
 
-<img width="50%" align="right" alt="lucifer1004's github stats" src="https://github-readme-stats.vercel.app/api?username=lucifer1004&show_icons=true">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-I'm Zihua Wu. I received my Bachelor's degree in Physics and Ph.D. degree in Cartography & GIS from Peking University.
+Hi, I'm Gabriel Wu. I received my Bachelor's degree in Physics and Ph.D. degree in Cartography & GIS from Peking University.
 
 Currently, I am a software engineer at DevTech, NVIDIA.
 
-- :hammer_and_pick: Typescript for web applications, C++/Python/Rust/Kotlin for competitive programming, Python/R/Julia for data science.
-- :sunny: Maintaining [CP-Wiki](https://cp-wiki.vercel.app) and more 
-- :package: Building [MonkeyLang.jl](https://github.com/lucifer1004/MonkeyLang.jl), [Taichi.jl](https://github.com/lucifer1004/Taichi.jl), [Jl2Py.jl](https://github.com/lucifer1004/Jl2Py.jl), [jlbun](https://github.com/lucifer1004/jlbun), [Rust-Wechaty](https://github.com/wechaty/rust-wechaty), [Googlemap-React](https://github.com/googlemap-react/googlemap-react) and more
-- :sparkler: Created Julia backend for [LFortran](https://github.com/lfortran/lfortran)
-- :seedling: Haskell, Rust, Elixir
+- :hammer_and_pick: Rust / Typst / C++ / Python / TypeScript
+- :fire: Building [govctl](https://github.com/govctl-org/govctl) & [skillc](https://github.com/govctl-org/skillc) for governed AI coding
+- :art: Contributing to Typst Universe: [citrus](https://github.com/pku-typst/citeproc-typst), [modern-pku-thesis](https://github.com/pku-typst/pkuthss-typst), [leetcode-livebook](https://github.com/lucifer1004/leetcode.typ)
+- :rocket: Contributing to [tilelang](https://github.com/tile-ai/tilelang) & [LFortran](https://github.com/lfortran/lfortran)
+- :sunny: Maintaining [govctl-org](https://govctl.org) and [CP-Wiki](https://cp-wiki.vercel.app)
 - :man: Pronouns: he/him
 
----
+</td>
+<td width="50%">
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=lucifer1004&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="./profile.svg" alt="GitHub Stats" />
 
----
+</td>
+</tr>
+</table>
+
+## Top languages
+
+<p align="center">
+  <img src="./language.svg" alt="Top Languages" />
+</p>
+
+## Commit time distribution
+
+<p align="center">
+  <img src="./timedist.svg" alt="Commit Time Distribution" />
+</p>
 
 ## Wakatime statistics
 

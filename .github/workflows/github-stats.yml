@@ -1,0 +1,35 @@
+name: Update GitHub Stats
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "47 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+
+      - uses: lucifer1004/github-stats-typst@v1
+        with:
+          username: lucifer1004
+          token: ${{ secrets.GHT }}
+          theme: github
+          cards: profile,timedist,language
+
+      - name: Commit
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "action@github.com"
+          git add *.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GitHub Stats"
+            git push
+          fi
