@@ -37,11 +37,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Typst        12 hrs 41 mins        █████████████████▓░░░░░░░   70.58 %
-Markdown     1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-TeX          1 hr 1 min            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-TOML         48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-C++          31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Typst        12 hrs 30 mins        ███████████████▒░░░░░░░░░   61.49 %
+Markdown     1 hr 46 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+TeX          1 hr 1 min            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+TOML         58 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Git Config   45 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
