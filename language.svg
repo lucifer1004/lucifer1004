@@ -97,7 +97,7 @@
                             <use xlink:href="#g9F32FF96DB2A56796EB1431EF39EFAEA" x="24.1240234375" y="0" fill="#1f2328" fill-rule="nonzero"/>
                             <use xlink:href="#g7CFBE04AAA4BE12FDFC1578632E8DDCF" x="28.4033203125" y="0" fill="#1f2328" fill-rule="nonzero"/>
                             <use xlink:href="#gBFDD1B8AA961643CCED9730B9B1BF0D6" x="37.515625" y="0" fill="#1f2328" fill-rule="nonzero"/>
-                            <use xlink:href="#g2F6C73217E2191981983FD772C54DA1B" x="46.607421875" y="0" fill="#1f2328" fill-rule="nonzero"/>
+                            <use xlink:href="#g7CFBE04AAA4BE12FDFC1578632E8DDCF" x="46.607421875" y="0" fill="#1f2328" fill-rule="nonzero"/>
                         </g>
                     </g>
                 </g>
@@ -245,7 +245,7 @@
                                     <g>
                                         <g class="typst-group">
                                             <g>
-                                                <path class="typst-shape" fill="#3572a5" fill-rule="nonzero" d="M 0 0m 0 4 c 0 -2.2091389 1.790861 -4 4 -4 h 54.542667 c 2.209137 0 4 1.790861 4 4 v 2 c 0 2.2091389 -1.790863 4 -4 4 h -54.542667 c -2.2091389 0 -4 -1.7908611 -4 -4 Z "/>
+                                                <path class="typst-shape" fill="#3572a5" fill-rule="nonzero" d="M 0 0m 0 4 c 0 -2.2091389 1.790861 -4 4 -4 h 54.544876 c 2.2091408 0 4 1.790861 4 4 v 2 c 0 2.2091389 -1.7908592 4 -4 4 h -54.544876 c -2.2091389 0 -4 -1.7908611 -4 -4 Z "/>
                                             </g>
                                         </g>
                                     </g>
