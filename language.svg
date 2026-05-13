@@ -96,8 +96,8 @@
                             <use xlink:href="#gA64785DF7F9971FC31BF7EC69E2CEAF2" x="15.1279296875" y="0" fill="#1f2328" fill-rule="nonzero"/>
                             <use xlink:href="#g9F32FF96DB2A56796EB1431EF39EFAEA" x="23.515625" y="0" fill="#1f2328" fill-rule="nonzero"/>
                             <use xlink:href="#g3A5BF84957608D5C316F9DB1D011B2F7" x="27.78125" y="0" fill="#1f2328" fill-rule="nonzero"/>
-                            <use xlink:href="#gA64785DF7F9971FC31BF7EC69E2CEAF2" x="37.2216796875" y="0" fill="#1f2328" fill-rule="nonzero"/>
-                            <use xlink:href="#g12B6DF6242FB56F8060747287F160BA4" x="45.9306640625" y="0" fill="#1f2328" fill-rule="nonzero"/>
+                            <use xlink:href="#g12B6DF6242FB56F8060747287F160BA4" x="37.2216796875" y="0" fill="#1f2328" fill-rule="nonzero"/>
+                            <use xlink:href="#g12B6DF6242FB56F8060747287F160BA4" x="46.689453125" y="0" fill="#1f2328" fill-rule="nonzero"/>
                         </g>
                     </g>
                 </g>
@@ -206,7 +206,7 @@
                                     <g>
                                         <g class="typst-group">
                                             <g>
-                                                <path class="typst-shape" fill="#8250df" fill-rule="nonzero" d="M 0 0m 0 4 c 0 -2.2091389 1.790861 -4 4 -4 h 72.27998 c 2.209137 0 4 1.790861 4 4 v 2 c 0 2.2091389 -1.790863 4 -4 4 h -72.27998 c -2.2091389 0 -4 -1.7908611 -4 -4 Z "/>
+                                                <path class="typst-shape" fill="#8250df" fill-rule="nonzero" d="M 0 0m 0 4 c 0 -2.2091389 1.790861 -4 4 -4 h 72.27888 c 2.209137 0 4 1.790861 4 4 v 2 c 0 2.2091389 -1.790863 4 -4 4 h -72.27888 c -2.2091389 0 -4 -1.7908611 -4 -4 Z "/>
                                             </g>
                                         </g>
                                     </g>
@@ -245,7 +245,7 @@
                                     <g>
                                         <g class="typst-group">
                                             <g>
-                                                <path class="typst-shape" fill="#3572a5" fill-rule="nonzero" d="M 0 0m 0 4 c 0 -2.2091389 1.790861 -4 4 -4 h 54.719532 c 2.209137 0 4 1.790861 4 4 v 2 c 0 2.2091389 -1.790863 4 -4 4 h -54.719532 c -2.2091389 0 -4 -1.7908611 -4 -4 Z "/>
+                                                <path class="typst-shape" fill="#3572a5" fill-rule="nonzero" d="M 0 0m 0 4 c 0 -2.2091389 1.790861 -4 4 -4 h 54.709583 c 2.209137 0 4 1.790861 4 4 v 2 c 0 2.2091389 -1.790863 4 -4 4 h -54.709583 c -2.2091389 0 -4 -1.7908611 -4 -4 Z "/>
                                             </g>
                                         </g>
                                     </g>
