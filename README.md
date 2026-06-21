@@ -37,11 +37,11 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Julia        19 hrs 21 mins        ███████████▓░░░░░░░░░░░░░   46.44 %
-Markdown     12 hrs 56 mins        ███████▓░░░░░░░░░░░░░░░░░   31.04 %
-TeX          3 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-BibTeX       1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Makefile     44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Julia        15 hrs 46 mins        ███████████░░░░░░░░░░░░░░   43.62 %
+Markdown     11 hrs 50 mins        ████████▒░░░░░░░░░░░░░░░░   32.76 %
+TeX          3 hrs 17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+BibTeX       1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Rust         42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
