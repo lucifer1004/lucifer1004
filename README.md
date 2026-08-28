@@ -37,8 +37,7 @@ Currently, I am a software engineer at DevTech, NVIDIA.
 <!--START_SECTION:waka-->
 
 ```txt
-Typst   1 hr 43 mins          ██████████████▒░░░░░░░░░░   57.54 %
-Other   1 hr 16 mins          ██████████▓░░░░░░░░░░░░░░   42.46 %
+Other   1 hr 19 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
