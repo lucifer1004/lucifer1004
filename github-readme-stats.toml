@@ -12,6 +12,6 @@ pinned = [
 ]
 
 [language]
-commits_limit = 1000
+commits_limit = 0  # 0 = unlimited (sample all commits in the last-year window)
 top_n = 10
 exclude = ["HTML", "CSS", "SVG"]
